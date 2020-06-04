@@ -11,6 +11,6 @@ def test_increment_two():
     assert increment(0) == 1
 
 
-@pytest.mark.mark_three()
-def test_increment_three():
-    assert increment(0) == 1
+# @pytest.mark.mark_three()
+# def test_increment_three():
+#     assert increment(0) == 1
